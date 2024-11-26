@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "Chill Vibes Playlist",
+      "image_source": "images/BA_14.png",
+      "alt_text": "A serene scene of a person lying on a hammock under a palm tree at sunset.",
+      "description": "Relax and unwind with this carefully curated selection of mellow tracks. Perfect for evenings or moments of quiet reflection.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
+    },
+    {
+      "id": 2,
+      "title": "Morning Motivation",
+      "image_source": "images/BA_15.png",
+      "alt_text": "A steaming cup of coffee next to an open journal on a wooden table bathed in morning light.",
+      "description": "Start your day with uplifting beats and energizing tunes designed to boost your mood and productivity.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DXcZDD7cfEKhW"
+    },
+    {
+      "id": 3,
+      "title": "Indie Chill",
+      "image_source": "images/BA_16.png",
+      "alt_text": "A cozy room with fairy lights and a record player spinning vinyl.",
+      "description": "Discover the best of indie music with this mix of chill and soulful tracks from emerging and established artists.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DWWEJlAGA9gs0"
+    },
+    {
+      "id": 4,
+      "title": "Workout Hits",
+      "image_source": "images/BA_17.png",
+      "alt_text": "A pair of running shoes and a water bottle on a gym floor.",
+      "description": "Push your limits with this high-energy playlist featuring the latest hits and remixes to keep you moving.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+    },
+    {
+      "id": 5,
+      "title": "Lo-Fi Beats",
+      "image_source": "images/BA_18.png",
+      "alt_text": "A cozy desk setup with a laptop, headphones, and a steaming mug of tea.",
+      "description": "Set the mood for studying or relaxing with this selection of soothing lo-fi beats and ambient tracks.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DWWQRwui0ExPn"
+    },
+    {
+      "id": 6,
+      "title": "Acoustic Mornings",
+      "image_source": "images/BA_39.png",
+      "alt_text": "A person playing an acoustic guitar on a sunny morning.",
+      "description": "Ease into your day with gentle acoustic melodies and calming vocals to start things off right.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX7K31D69s4M1"
+    },
+    {
+      "id": 7,
+      "title": "Classical Focus",
+      "image_source": "images/BA_20.png",
+      "alt_text": "A grand piano in an elegant concert hall.",
+      "description": "Stay focused and productive with a selection of classical pieces designed to inspire and calm.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DWWEcRhUVtL8n"
+    },
+    {
+      "id": 8,
+      "title": "Jazz Nights",
+      "image_source": "images/BA_40.png",
+      "alt_text": "A dimly lit jazz club with a saxophonist performing on stage.",
+      "description": "Experience the smooth and soulful sounds of jazz to accompany your evenings.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DXbITWG1ZJKYt"
+    },
+    {
+      "id": 9,
+      "title": "Pop Party",
+      "image_source": "images/BA_22.png",
+      "alt_text": "A vibrant party scene with people dancing under colorful lights.",
+      "description": "Get the party started with the hottest pop tracks that will keep everyone on their feet.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DXcF6B6QPhFDv"
+    },
+    {
+      "id": 10,
+      "title": "Relaxing Nature Sounds",
+      "image_source": "images/BA_38.png",
+      "alt_text": "A peaceful forest scene with a stream running through it.",
+      "description": "Unwind and destress with soothing nature sounds, including running water, birdsong, and gentle winds.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DWUZ5bk6qqDSy"
+    },
+    {
+      "id": 11,
+      "title": "Electronic Chill",
+      "image_source": "images/BA_39.png",
+      "alt_text": "A neon-lit room with a DJ mixing beats.",
+      "description": "A laid-back electronic playlist featuring ambient and downtempo tracks to set the perfect mood.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX0h0QnLkMBl4"
+    },
+    {
+      "id": 12,
+      "title": "Romantic Ballads",
+      "image_source": "images/BA_25.png",
+      "alt_text": "A couple dancing together in a candlelit room.",
+      "description": "Enjoy timeless romantic ballads that set the perfect tone for special moments.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+    },
+    {
+      "id": 13,
+      "title": "Country Roads",
+      "image_source": "images/BA_26.png",
+      "alt_text": "A scenic country road winding through rolling hills at sunset.",
+      "description": "Explore the best of country music with heartfelt lyrics and soulful melodies.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX8WMG8VPSOJC"
+    },
+    {
+      "id": 14,
+      "title": "Hip-Hop Hits",
+      "image_source": "images/BA_27.png",
+      "alt_text": "A graffiti-covered wall with a person in headphones rapping.",
+      "description": "Turn up the energy with the latest and greatest hip-hop tracks from top artists.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX48TTZL62Yht"
+    },
+    {
+      "id": 15,
+      "title": "Reggae Rhythms",
+      "image_source": "images/BA_28.png",
+      "alt_text": "A tropical beach scene with palm trees swaying in the breeze.",
+      "description": "Feel the groove with classic and contemporary reggae tracks that bring the island vibes.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX7GqyyDpXu1q"
+    },
+    {
+      "id": 16,
+      "title": "80s Throwback",
+      "image_source": "images/BA_29.png",
+      "alt_text": "A retro cassette tape deck surrounded by neon lights.",
+      "description": "Take a nostalgic trip back to the 80s with iconic pop and rock hits from the era.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX4UtSsGT1Sbe"
+    },
+    {
+      "id": 17,
+      "title": "Rock Anthems",
+      "image_source": "images/BA_30.png",
+      "alt_text": "A rock band performing under dramatic stage lighting.",
+      "description": "Turn up the volume with powerful rock anthems from the past and present.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
+    },
+    {
+      "id": 18,
+      "title": "R&B Love Songs",
+      "image_source": "images/BA_31.png",
+      "alt_text": "A dimly lit room with a heart-shaped neon sign.",
+      "description": "Feel the romance with smooth and soulful R&B tracks that set the perfect mood.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DX6VdMW310YC7"
+    },
+    {
+      "id": 19,
+      "title": "Latin Beats",
+      "image_source": "images/BA_32.png",
+      "alt_text": "A lively street scene with a couple dancing salsa.",
+      "description": "Dance the night away with high-energy Latin beats and rhythms.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DXbLMw3ry7d7k"
+    },
+    {
+      "id": 20,
+      "title": "Meditation Tracks",
+      "image_source": "images/BA_33.png",
+      "alt_text": "A person meditating in a peaceful outdoor setting.",
+      "description": "Find your inner calm with soothing tracks perfect for meditation and mindfulness.",
+      "spotify_uri": "spotify:playlist:37i9dQZF1DWZqd5JICZI0u"
+    }
+  ]
+  
