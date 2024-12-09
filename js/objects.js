@@ -1,5 +1,5 @@
 window.addEventListener("load", function () {
-  fetch('../data/objects.json')
+  fetch('./data/objects.json')
     .then(response => {
       if (!response.ok) {
         throw new Error('Failed to fetch JSON');
