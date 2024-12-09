@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Chill Vibes Playlist",
-      "image": "../images/BA_14.png",
+      "image": "./images/BA_14.png",
       "alt": "A serene scene of a person lying on a hammock under a palm tree at sunset.",
       "description": "Relax and unwind with this carefully curated selection of mellow tracks. Perfect for evenings or moments of quiet reflection.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "title": "Morning Motivation",
-      "image": "../images/BA_15.png",
+      "image": "./images/BA_15.png",
       "alt": "A steaming cup of coffee next to an open journal on a wooden table bathed in morning light.",
       "description": "Start your day with uplifting beats and energizing tunes designed to boost your mood and productivity.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DXcZDD7cfEKhW"
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "title": "Indie Chill",
-      "image": "../images/BA_16.png",
+      "image": "./images/BA_16.png",
       "alt": "A cozy room with fairy lights and a record player spinning vinyl.",
       "description": "Discover the best of indie music with this mix of chill and soulful tracks from emerging and established artists.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DWWEJlAGA9gs0"
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "title": "Workout Hits",
-      "image": "../images/BA_17.png",
+      "image": "./images/BA_17.png",
       "alt": "A pair of running shoes and a water bottle on a gym floor.",
       "description": "Push your limits with this high-energy playlist featuring the latest hits and remixes to keep you moving.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "title": "Lo-Fi Beats",
-      "image": "../images/BA_18.png",
+      "image": "./images/BA_18.png",
       "alt": "A cozy desk setup with a laptop, headphones, and a steaming mug of tea.",
       "description": "Set the mood for studying or relaxing with this selection of soothing lo-fi beats and ambient tracks.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DWWQRwui0ExPn"
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "title": "Acoustic Mornings",
-      "image": "../images/BA_39.png",
+      "image": "./images/BA_39.png",
       "alt": "A person playing an acoustic guitar on a sunny morning.",
       "description": "Ease into your day with gentle acoustic melodies and calming vocals to start things off right.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX7K31D69s4M1"
@@ -50,7 +50,7 @@
     {
       "id": 7,
       "title": "Classical Focus",
-      "image": "../images/BA_14.png",
+      "image": "./images/BA_14.png",
       "alt": "A grand piano in an elegant concert hall.",
       "description": "Stay focused and productive with a selection of classical pieces designed to inspire and calm.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DWWEcRhUVtL8n"
@@ -58,7 +58,7 @@
     {
       "id": 8,
       "title": "Jazz Nights",
-      "image": "../images/BA_40.png",
+      "image": "./images/BA_40.png",
       "alt": "A dimly lit jazz club with a saxophonist performing on stage.",
       "description": "Experience the smooth and soulful sounds of jazz to accompany your evenings.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DXbITWG1ZJKYt"
@@ -66,7 +66,7 @@
     {
       "id": 9,
       "title": "Pop Party",
-      "image": "../images/BA_22.png",
+      "image": "./images/BA_22.png",
       "alt": "A vibrant party scene with people dancing under colorful lights.",
       "description": "Get the party started with the hottest pop tracks that will keep everyone on their feet.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DXcF6B6QPhFDv"
@@ -74,7 +74,7 @@
     {
       "id": 10,
       "title": "Relaxing Nature Sounds",
-      "image": "../images/BA_38.png",
+      "image": "./images/BA_38.png",
       "alt": "A peaceful forest scene with a stream running through it.",
       "description": "Unwind and destress with soothing nature sounds, including running water, birdsong, and gentle winds.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DWUZ5bk6qqDSy"
@@ -82,7 +82,7 @@
     {
       "id": 11,
       "title": "Electronic Chill",
-      "image": "../images/BA_39.png",
+      "image": "./images/BA_39.png",
       "alt": "A neon-lit room with a DJ mixing beats.",
       "description": "A laid-back electronic playlist featuring ambient and downtempo tracks to set the perfect mood.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX0h0QnLkMBl4"
@@ -90,7 +90,7 @@
     {
       "id": 12,
       "title": "Romantic Ballads",
-      "image": "../images/BA_25.png",
+      "image": "./images/BA_25.png",
       "alt": "A couple dancing together in a candlelit room.",
       "description": "Enjoy timeless romantic ballads that set the perfect tone for special moments.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
@@ -98,7 +98,7 @@
     {
       "id": 13,
       "title": "Country Roads",
-      "image": "../images/BA_26.png",
+      "image": "./images/BA_26.png",
       "alt": "A scenic country road winding through rolling hills at sunset.",
       "description": "Explore the best of country music with heartfelt lyrics and soulful melodies.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX8WMG8VPSOJC"
@@ -106,7 +106,7 @@
     {
       "id": 14,
       "title": "Hip-Hop Hits",
-      "image": "../images/BA_27.png",
+      "image": "./images/BA_27.png",
       "alt": "A graffiti-covered wall with a person in headphones rapping.",
       "description": "Turn up the energy with the latest and greatest hip-hop tracks from top artists.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX48TTZL62Yht"
@@ -114,7 +114,7 @@
     {
       "id": 15,
       "title": "Reggae Rhythms",
-      "image": "../images/BA_28.png",
+      "image": "./images/BA_28.png",
       "alt": "A tropical beach scene with palm trees swaying in the breeze.",
       "description": "Feel the groove with classic and contemporary reggae tracks that bring the island vibes.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX7GqyyDpXu1q"
@@ -130,7 +130,7 @@
     {
       "id": 17,
       "title": "Rock Anthems",
-      "image": "images/BA_30.png",
+      "image": "./images/BA_30.png",
       "alt": "A rock band performing under dramatic stage lighting.",
       "description": "Turn up the volume with powerful rock anthems from the past and present.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
@@ -138,7 +138,7 @@
     {
       "id": 18,
       "title": "R&B Love Songs",
-      "image": "images/BA_31.png",
+      "image": "./images/BA_31.png",
       "alt": "A dimly lit room with a heart-shaped neon sign.",
       "description": "Feel the romance with smooth and soulful R&B tracks that set the perfect mood.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DX6VdMW310YC7"
@@ -146,7 +146,7 @@
     {
       "id": 19,
       "title": "Latin Beats",
-      "image": "images/BA_32.png",
+      "image": "./images/BA_32.png",
       "alt": "A lively street scene with a couple dancing salsa.",
       "description": "Dance the night away with high-energy Latin beats and rhythms.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DXbLMw3ry7d7k"
@@ -154,7 +154,7 @@
     {
       "id": 20,
       "title": "Meditation Tracks",
-      "image": "images/BA_33.png",
+      "image": "./images/BA_33.png",
       "alt": "A person meditating in a peaceful outdoor setting.",
       "description": "Find your inner calm with soothing tracks perfect for meditation and mindfulness.",
       "spotifyUri": "spotify:playlist:37i9dQZF1DWZqd5JICZI0u"
