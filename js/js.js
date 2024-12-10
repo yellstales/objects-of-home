@@ -1,10 +1,15 @@
 const baseURL = 'object.html?id='
 
-document.querySelectorAll('a').forEach(anchor => addEventListener("click", function () {
+document.querySelector('span').addEventListener("click", function () {
+    window.location.href = "#gallery";
+});
+
+document.querySelectorAll('.gallery a').forEach(anchor => addEventListener("click", function () {
     const id = parseInt(anchor.id);
-    
+
     if (id >= 1 && id <= 20) {
-        anchor.href = `${baseURL}${id}`;
-        window.location.href = generatedLink;
+
+        const generatedLink = `${baseURL}${id}`;
+        anchor.href = generatedLink;
     }
 }));
