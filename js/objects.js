@@ -6,7 +6,7 @@ window.addEventListener("load", function () {
       }
       return response.json();
     })
-    .then(data => {
+    .then(data => { 
       const urlParams = new URLSearchParams(window.location.search);
       const objectId = parseInt(urlParams.get('id'));
       const object = data.find(item => item.id === objectId);

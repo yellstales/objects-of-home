@@ -1,163 +1,131 @@
 [
-    {
-      "id": 1,
-      "title": "Chill Vibes Playlist",
-      "image": "./images/BA_14.png",
-      "alt": "A serene scene of a person lying on a hammock under a palm tree at sunset.",
-      "description": "Relax and unwind with this carefully curated selection of mellow tracks. Perfect for evenings or moments of quiet reflection.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
-    },
-    {
-      "id": 2,
-      "title": "Morning Motivation",
-      "image": "./images/BA_15.png",
-      "alt": "A steaming cup of coffee next to an open journal on a wooden table bathed in morning light.",
-      "description": "Start your day with uplifting beats and energizing tunes designed to boost your mood and productivity.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DXcZDD7cfEKhW"
-    },
-    {
-      "id": 3,
-      "title": "Indie Chill",
-      "image": "./images/BA_16.png",
-      "alt": "A cozy room with fairy lights and a record player spinning vinyl.",
-      "description": "Discover the best of indie music with this mix of chill and soulful tracks from emerging and established artists.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DWWEJlAGA9gs0"
-    },
-    {
-      "id": 4,
-      "title": "Workout Hits",
-      "image": "./images/BA_17.png",
-      "alt": "A pair of running shoes and a water bottle on a gym floor.",
-      "description": "Push your limits with this high-energy playlist featuring the latest hits and remixes to keep you moving.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
-    },
-    {
-      "id": 5,
-      "title": "Lo-Fi Beats",
-      "image": "./images/BA_18.png",
-      "alt": "A cozy desk setup with a laptop, headphones, and a steaming mug of tea.",
-      "description": "Set the mood for studying or relaxing with this selection of soothing lo-fi beats and ambient tracks.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DWWQRwui0ExPn"
-    },
-    {
-      "id": 6,
-      "title": "Acoustic Mornings",
-      "image": "./images/BA_39.png",
-      "alt": "A person playing an acoustic guitar on a sunny morning.",
-      "description": "Ease into your day with gentle acoustic melodies and calming vocals to start things off right.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX7K31D69s4M1"
-    },
-    {
-      "id": 7,
-      "title": "Classical Focus",
-      "image": "./images/BA_14.png",
-      "alt": "A grand piano in an elegant concert hall.",
-      "description": "Stay focused and productive with a selection of classical pieces designed to inspire and calm.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DWWEcRhUVtL8n"
-    },
-    {
-      "id": 8,
-      "title": "Jazz Nights",
-      "image": "./images/BA_40.png",
-      "alt": "A dimly lit jazz club with a saxophonist performing on stage.",
-      "description": "Experience the smooth and soulful sounds of jazz to accompany your evenings.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DXbITWG1ZJKYt"
-    },
-    {
-      "id": 9,
-      "title": "Pop Party",
-      "image": "./images/BA_22.png",
-      "alt": "A vibrant party scene with people dancing under colorful lights.",
-      "description": "Get the party started with the hottest pop tracks that will keep everyone on their feet.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DXcF6B6QPhFDv"
-    },
-    {
-      "id": 10,
-      "title": "Relaxing Nature Sounds",
-      "image": "./images/BA_38.png",
-      "alt": "A peaceful forest scene with a stream running through it.",
-      "description": "Unwind and destress with soothing nature sounds, including running water, birdsong, and gentle winds.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DWUZ5bk6qqDSy"
-    },
-    {
-      "id": 11,
-      "title": "Electronic Chill",
-      "image": "./images/BA_39.png",
-      "alt": "A neon-lit room with a DJ mixing beats.",
-      "description": "A laid-back electronic playlist featuring ambient and downtempo tracks to set the perfect mood.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX0h0QnLkMBl4"
-    },
-    {
-      "id": 12,
-      "title": "Romantic Ballads",
-      "image": "./images/BA_25.png",
-      "alt": "A couple dancing together in a candlelit room.",
-      "description": "Enjoy timeless romantic ballads that set the perfect tone for special moments.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
-    },
-    {
-      "id": 13,
-      "title": "Country Roads",
-      "image": "./images/BA_26.png",
-      "alt": "A scenic country road winding through rolling hills at sunset.",
-      "description": "Explore the best of country music with heartfelt lyrics and soulful melodies.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX8WMG8VPSOJC"
-    },
-    {
-      "id": 14,
-      "title": "Hip-Hop Hits",
-      "image": "./images/BA_27.png",
-      "alt": "A graffiti-covered wall with a person in headphones rapping.",
-      "description": "Turn up the energy with the latest and greatest hip-hop tracks from top artists.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX48TTZL62Yht"
-    },
-    {
-      "id": 15,
-      "title": "Reggae Rhythms",
-      "image": "./images/BA_28.png",
-      "alt": "A tropical beach scene with palm trees swaying in the breeze.",
-      "description": "Feel the groove with classic and contemporary reggae tracks that bring the island vibes.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX7GqyyDpXu1q"
-    },
-    {
-      "id": 16,
-      "title": "80s Throwback",
-      "image": "images/BA_29.png",
-      "alt": "A retro cassette tape deck surrounded by neon lights.",
-      "description": "Take a nostalgic trip back to the 80s with iconic pop and rock hits from the era.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX4UtSsGT1Sbe"
-    },
-    {
-      "id": 17,
-      "title": "Rock Anthems",
-      "image": "./images/BA_30.png",
-      "alt": "A rock band performing under dramatic stage lighting.",
-      "description": "Turn up the volume with powerful rock anthems from the past and present.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
-    },
-    {
-      "id": 18,
-      "title": "R&B Love Songs",
-      "image": "./images/BA_31.png",
-      "alt": "A dimly lit room with a heart-shaped neon sign.",
-      "description": "Feel the romance with smooth and soulful R&B tracks that set the perfect mood.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DX6VdMW310YC7"
-    },
-    {
-      "id": 19,
-      "title": "Latin Beats",
-      "image": "./images/BA_32.png",
-      "alt": "A lively street scene with a couple dancing salsa.",
-      "description": "Dance the night away with high-energy Latin beats and rhythms.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DXbLMw3ry7d7k"
-    },
-    {
-      "id": 20,
-      "title": "Meditation Tracks",
-      "image": "./images/BA_33.png",
-      "alt": "A person meditating in a peaceful outdoor setting.",
-      "description": "Find your inner calm with soothing tracks perfect for meditation and mindfulness.",
-      "spotifyUri": "spotify:playlist:37i9dQZF1DWZqd5JICZI0u"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "My Grandmother’s Vase",
+    "image": "./images/BA_14.png",
+    "alt": "A gray vase of the oval form on a white background.",
+    "description": "This vase belonged to my grandmother, who always kept it on her kitchen table. She would fill it with fresh flowers from her garden—roses in summer, dried lavender in winter. I remember sitting at that table as a child, watching her arrange the blooms with careful hands, humming softly under her breath.\nWhen she passed, the vase was one of the few things I brought back from her home. Every time I see it, I feel her presence, as if she’s still here, tending to her flowers and offering quiet words of encouragement. Now, it sits in my living room, not always with flowers, but always with love—a piece of her that makes every place feel like home.",
+    "spotifyUri": "spotify:track:46EuzanXhKwIc7755wLAvS"
+  },
+  {
+    "id": 2,
+    "title": "A Sip of Tradition",
+    "image": "./images/BA_15.png",
+    "alt": "A beautiful white porcelain cup with intricate blue designs.",
+    "description": "This cup was passed down from my mother, who received it as a gift from her grandmother. Its intricate Russian blue design always stood out to me—every curve and pattern meticulously hand-painted, a work of art that carried the weight of generations. I remember my mother brewing her favorite tea in this cup, its warmth radiating through the porcelain, filling the room with a sense of calm.\nWhen I hold it, I am transported back to quiet mornings with her, sipping tea and talking about everything and nothing. Now, as I use it in my own home, it carries not just tea but the memories of a time and place where love and tradition intertwined with every sip.",
+    "spotifyUri": "spotify:track:4I4aQGNJ2HufloNtB65nxR"
+  },
+  {
+    "id": 3,
+    "title": "Morning Ritual",
+    "image": "./images/BA_16.png",
+    "alt": "A silver espresso maker on a white background.",
+    "description": "This espresso maker was a gift from a dear friend, an Italian barista who taught me the art of making the perfect espresso. It’s a symbol of mornings filled with conversation and laughter, where every cup was brewed with intention, and every sip brought a moment of connection. The sound of the espresso bubbling and the rich aroma became a comforting routine, a way to start the day with warmth and clarity.\nThough it’s traveled with me through different homes, it’s always felt like a piece of Italy wherever I am. Now, as I brew my morning coffee, I remember the conversations and the shared moments around this simple but treasured ritual.",
+    "spotifyUri": "spotify:track:0EKBV6GybPtALXUgWqWrym"
+  },
+  {
+    "id": 4,
+    "title": "Threads of Home",
+    "image": "./images/BA_17.png",
+    "alt": "A wool scarf with square patterns in orange, milk and brown.",
+    "description": "This scarf was passed down to me by my mother, who was born and raised in Uzbekistan. Its vibrant colors and intricate patterns are a reflection of the rich cultural heritage of my homeland. I remember watching my mother wear it during special occasions, the fabric flowing gracefully as she moved, symbolizing both elegance and tradition. The deep blues, reds, and golds represent the beauty of the markets in Bukhara and Samarkand, while the geometric designs reflect the meticulous craftsmanship of the artisans who weave these scarves by hand.\nWhen I wear it, I feel connected to my roots, as though the threads carry the spirit of my ancestors. It’s not just a scarf; it’s a reminder of my heritage, my family, and the beauty of the land I come from.",
+    "spotifyUri": "spotify:track:4vVRdmiVXWeT0UxkF5Nenj"
+  },
+  {
+    "id": 5,
+    "title": "The Heart of the Meal",
+    "image": "./images/BA_18.png",
+    "alt": "A porcelain rice pot with white and gray patterns.",
+    "description": "This rice pot was given to me by a close family friend who lived in South Korea. It’s made from clay, a traditional material used to cook rice in the most flavorful and comforting way. I remember spending time with this friend, watching them cook rice with such care and precision, knowing that the meal would bring warmth and nourishment. The aroma of fresh rice always filled the room, signaling that the meal was ready to bring everyone together.\nThough time has passed and our paths have diverged, this rice pot still carries the essence of those shared moments. It reminds me of the bonds we form with others, the care we give, and the joy of a simple meal.",
+    "spotifyUri": "spotify:track:2x1jP9BexWtOKudvuUHbaD"
+  },
+  {
+    "id": 6,
+    "title": "Warmth in Every Thread",
+    "image": "./images/BA_39.png",
+    "alt": "Cozy burgundy knitted sweater.",
+    "description": "This burgundy knitted sweater was a gift from my father, who always knew how to make me feel safe and cared for. The deep color of the sweater reminds me of quiet winter afternoons spent at home, sitting beside him while he worked on small projects or read the newspaper. I remember how he would always wear this sweater when he wanted to relax, his presence filling the room with a sense of calm and warmth.\nNow, when I wear it, I feel his love surrounding me, as though the sweater itself holds the comfort of those moments. It’s not just a piece of clothing—it’s a reminder of the care, strength, and warmth he gave me throughout my life.",
+    "spotifyUri": "spotify:track:5ihS6UUlyQAfmp48eSkxuQ"
+  },
+  {
+    "id": 7,
+    "title": "Threads of Tradition",
+    "image": "./images/BA_35.png",
+    "alt": "A beige and green tablecloth set with ornaments.",
+    "description": "This tablecloth set was carefully chosen by my mother, who always believed that family meals were the heart of our home. The soft cream and gold pattern brings to mind those evenings when we would gather around the table, the room filled with the aroma of her cooking and the sound of laughter. It wasn’t just about the food; it was about being together, sharing stories, and creating memories.\nNow, every time I lay out this tablecloth, I feel her presence and the love she poured into making those moments special. The intricate design and the warmth it brings to the table remind me of her care, her attention to detail, and the beauty she found in simple, everyday rituals.",
+    "spotifyUri": "spotify:track:2agBDIr9MYDUducQPC1sFU"
+  },
+  {
+    "id": 8,
+    "title": "Blanket of Comfort",
+    "image": "./images/BA_40.png",
+    "alt": "Green knitted wool blanket",
+    "description": "This warm wool blanket was a gift from my sister, who always knew how to make me feel cared for. The soft texture of the wool provides a comforting embrace, perfect for those quiet, cold nights. I remember snuggling under it together during winter evenings, when we would sit side by side, wrapped up in our own world. We’d talk about everything and nothing, while the warmth of the blanket kept us close even when the weather outside was harsh.\nNow, whenever I use it, I feel the same sense of closeness and warmth, as if she’s still right beside me. It’s not just a blanket; it’s a reminder of the love and understanding we shared, and the bond that, no matter how far apart we are, will always be with me.",
+    "spotifyUri": "spotify:track:3iXQJ8aXrNFoFBKTboyEjN"
+  },
+
+  {
+    "id": 9,
+    "title": "My Grandmother’s Vase",
+    "image": "./images/BA_14.png",
+    "alt": "A gray vase of the oval form on a white background.",
+    "description": "This vase belonged to my grandmother, who always kept it on her kitchen table. She would fill it with fresh flowers from her garden—roses in summer, dried lavender in winter. I remember sitting at that table as a child, watching her arrange the blooms with careful hands, humming softly under her breath.\nWhen she passed, the vase was one of the few things I brought back from her home. Every time I see it, I feel her presence, as if she’s still here, tending to her flowers and offering quiet words of encouragement. Now, it sits in my living room, not always with flowers, but always with love—a piece of her that makes every place feel like home.",
+    "spotifyUri": "spotify:track:46EuzanXhKwIc7755wLAvS"
+  },
+  {
+    "id": 10,
+    "title": "A Sip of Tradition",
+    "image": "./images/BA_15.png",
+    "alt": "A beautiful white porcelain cup with intricate blue designs.",
+    "description": "This cup was passed down from my mother, who received it as a gift from her grandmother. Its intricate Russian blue design always stood out to me—every curve and pattern meticulously hand-painted, a work of art that carried the weight of generations. I remember my mother brewing her favorite tea in this cup, its warmth radiating through the porcelain, filling the room with a sense of calm.\nWhen I hold it, I am transported back to quiet mornings with her, sipping tea and talking about everything and nothing. Now, as I use it in my own home, it carries not just tea but the memories of a time and place where love and tradition intertwined with every sip.",
+    "spotifyUri": "spotify:track:4I4aQGNJ2HufloNtB65nxR"
+  },
+  {
+    "id": 11,
+    "title": "Morning Ritual",
+    "image": "./images/BA_16.png",
+    "alt": "A silver espresso maker on a white background.",
+    "description": "This espresso maker was a gift from a dear friend, an Italian barista who taught me the art of making the perfect espresso. It’s a symbol of mornings filled with conversation and laughter, where every cup was brewed with intention, and every sip brought a moment of connection. The sound of the espresso bubbling and the rich aroma became a comforting routine, a way to start the day with warmth and clarity.\nThough it’s traveled with me through different homes, it’s always felt like a piece of Italy wherever I am. Now, as I brew my morning coffee, I remember the conversations and the shared moments around this simple but treasured ritual.",
+    "spotifyUri": "spotify:track:0EKBV6GybPtALXUgWqWrym"
+  },
+  {
+    "id": 12,
+    "title": "Threads of Home",
+    "image": "./images/BA_17.png",
+    "alt": "A wool scarf with square patterns in orange, milk and brown.",
+    "description": "This scarf was passed down to me by my mother, who was born and raised in Uzbekistan. Its vibrant colors and intricate patterns are a reflection of the rich cultural heritage of my homeland. I remember watching my mother wear it during special occasions, the fabric flowing gracefully as she moved, symbolizing both elegance and tradition. The deep blues, reds, and golds represent the beauty of the markets in Bukhara and Samarkand, while the geometric designs reflect the meticulous craftsmanship of the artisans who weave these scarves by hand.\nWhen I wear it, I feel connected to my roots, as though the threads carry the spirit of my ancestors. It’s not just a scarf; it’s a reminder of my heritage, my family, and the beauty of the land I come from.",
+    "spotifyUri": "spotify:track:4vVRdmiVXWeT0UxkF5Nenj"
+  },
+  {
+    "id": 13,
+    "title": "The Heart of the Meal",
+    "image": "./images/BA_18.png",
+    "alt": "A porcelain rice pot with white and gray patterns.",
+    "description": "This rice pot was given to me by a close family friend who lived in South Korea. It’s made from clay, a traditional material used to cook rice in the most flavorful and comforting way. I remember spending time with this friend, watching them cook rice with such care and precision, knowing that the meal would bring warmth and nourishment. The aroma of fresh rice always filled the room, signaling that the meal was ready to bring everyone together.\nThough time has passed and our paths have diverged, this rice pot still carries the essence of those shared moments. It reminds me of the bonds we form with others, the care we give, and the joy of a simple meal.",
+    "spotifyUri": "spotify:track:2x1jP9BexWtOKudvuUHbaD"
+  },
+  {
+    "id": 14,
+    "title": "Warmth in Every Thread",
+    "image": "./images/BA_39.png",
+    "alt": "Cozy burgundy knitted sweater.",
+    "description": "This burgundy knitted sweater was a gift from my father, who always knew how to make me feel safe and cared for. The deep color of the sweater reminds me of quiet winter afternoons spent at home, sitting beside him while he worked on small projects or read the newspaper. I remember how he would always wear this sweater when he wanted to relax, his presence filling the room with a sense of calm and warmth.\nNow, when I wear it, I feel his love surrounding me, as though the sweater itself holds the comfort of those moments. It’s not just a piece of clothing—it’s a reminder of the care, strength, and warmth he gave me throughout my life.",
+    "spotifyUri": "spotify:track:5ihS6UUlyQAfmp48eSkxuQ"
+  },
+  {
+    "id": 15,
+    "title": "Threads of Tradition",
+    "image": "./images/BA_35.png",
+    "alt": "A beige and green tablecloth set with ornaments.",
+    "description": "This tablecloth set was carefully chosen by my mother, who always believed that family meals were the heart of our home. The soft cream and gold pattern brings to mind those evenings when we would gather around the table, the room filled with the aroma of her cooking and the sound of laughter. It wasn’t just about the food; it was about being together, sharing stories, and creating memories.\nNow, every time I lay out this tablecloth, I feel her presence and the love she poured into making those moments special. The intricate design and the warmth it brings to the table remind me of her care, her attention to detail, and the beauty she found in simple, everyday rituals.",
+    "spotifyUri": "spotify:track:2agBDIr9MYDUducQPC1sFU"
+  },
+  {
+    "id": 16,
+    "title": "Blanket of Comfort",
+    "image": "./images/BA_40.png",
+    "alt": "Green knitted wool blanket",
+    "description": "This warm wool blanket was a gift from my sister, who always knew how to make me feel cared for. The soft texture of the wool provides a comforting embrace, perfect for those quiet, cold nights. I remember snuggling under it together during winter evenings, when we would sit side by side, wrapped up in our own world. We’d talk about everything and nothing, while the warmth of the blanket kept us close even when the weather outside was harsh.\nNow, whenever I use it, I feel the same sense of closeness and warmth, as if she’s still right beside me. It’s not just a blanket; it’s a reminder of the love and understanding we shared, and the bond that, no matter how far apart we are, will always be with me.",
+    "spotifyUri": "spotify:track:3iXQJ8aXrNFoFBKTboyEjN"
+  }
+]
